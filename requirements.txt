@@ -1,0 +1,12 @@
+# MAVLink communication
+pymavlink>=2.4.0
+
+# Computer vision
+opencv-python>=4.5.0
+
+# Numerical operations
+numpy>=1.20.0
+pupil-apriltags>=1.0.4
+
+# Optional: DroneKit for alternative MAVLink interface
+# dronekit>=2.9.0
